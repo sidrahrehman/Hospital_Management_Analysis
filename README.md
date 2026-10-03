@@ -80,9 +80,11 @@ The two tables are connected using **Patient_ID**.
 
 ## 📷 Dashboard Preview
 Excel Dasboard:
+
 <img width="454" height="278" alt="image" src="https://github.com/user-attachments/assets/8e0ee571-e58c-4408-9dd7-4a189e94f0db" />
 
 Power Bi Dashboard:
+
 <img width="434" height="247" alt="image" src="https://github.com/user-attachments/assets/55db1ccf-313d-4b29-ae63-66f43a253350" />
 
 
